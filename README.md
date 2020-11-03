@@ -25,7 +25,7 @@
 
 ♨ &nbsp; Java | React | Git | PostgreSQL
 
-![Jan-Andreas' github stats](https://github-readme-stats.vercel.app/api?janandreaskick=anuraghazra&show_icons=true&theme=radical)
+![Jan-Andreas' github stats](https://github-readme-stats.vercel.app/api?username=janandreaskick&show_icons=true&theme=radical)
 
 <hr>
 
