@@ -6,9 +6,9 @@
 
 
 
-- &nbsp; Norwegian Web Developer.
+💻 &nbsp; Norwegian Web Developer.
 
-- &nbsp; Currently studying Information Technology at Kristiania University College.
+🎓 &nbsp; Currently studying Information Technology at Kristiania University College.
 
 - &nbsp; Learning about Cloud Tech, Systems Design.
 
