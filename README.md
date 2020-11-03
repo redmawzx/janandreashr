@@ -23,7 +23,7 @@
 
 <h3>Currently improving my</h3>
 
-- &nbsp; React | Java | Git | PostgreSQL
+♨ &nbsp; Java | React | Git | PostgreSQL
 
 <hr>
 
