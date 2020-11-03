@@ -36,11 +36,11 @@
 </samp>
 </details>
 
+<!-- Contact Hyperlinks -->
+<details align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-Jan&#8211;Andreas%20Rusnak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-andreas-rusnak-81811b1b9/)
 [![Mail Badge](https://img.shields.io/badge/-janandreashorgenr@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:janandreashorgenr@gmail.com)
-
-<!-- Contact Hyperlinks -->
-
+</details>
 
 <br>
 
