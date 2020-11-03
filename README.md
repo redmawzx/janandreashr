@@ -39,7 +39,7 @@
 <br>
 
 <!-- Contact Hyperlinks -->
-[![Linkedin Badge](https://img.shields.io/badge/-Jan-Andreas%20Rusnak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/)
+[![Linkedin Badge](https://img.shields.io/badge/-JanAndreas%20Rusnak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/)
 [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
 
 <br>
