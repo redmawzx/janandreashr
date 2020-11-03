@@ -39,6 +39,8 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 </samp>
  
+ <br>
+ 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=janandreaskick.janandreaskick)
  
 </details>
