@@ -40,7 +40,7 @@
 
 <!-- Contact Hyperlinks -->
 [![Linkedin Badge](https://img.shields.io/badge/-Jan&#8211;Andreas%20Rusnak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-andreas-rusnak-81811b1b9/)
-[![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-janandreas@mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
 
 <br>
 
