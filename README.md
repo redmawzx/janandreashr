@@ -30,7 +30,6 @@
 <!-- Bonfire -->
 <details align="center">
 <summary> <b> <samp> Light bonfire </samp></b></summary>
-<br><br>
 <samp>
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
@@ -39,6 +38,7 @@
 
 <br>
 
+<!-- Contact Hyperlinks -->
 <p align="center">
 <a href="https://www.linkedin.com/in/jan-andreas-rusnak-81811b1b9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jan%20Andreas%20Rusnak-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:janandreashorgenr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-janandreashorgenr@gmail.com-blue?style=flat-square&logo=gmail"></a>
