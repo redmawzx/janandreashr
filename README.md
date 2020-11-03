@@ -37,7 +37,7 @@
 </samp>
 </details>
 
-<br><br>
+<br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jan-andreas-rusnak-81811b1b9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jan%20Andreas%20Rusnak-blue?style=flat-square&logo=linkedin"></a>
