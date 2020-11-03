@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" align="center"/>
 
 Here are some ideas to get you started:
 
