@@ -11,7 +11,7 @@
 
 🥋 &nbsp; Actively practicing Taekwondo as a hobby.
 
-🎮 &nbsp; Favorite game: Dark Souls 3.
+🎮 &nbsp; Favorite videogame: Dark Souls 3.
 
 
 <h3>What I know</h3>
