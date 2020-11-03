@@ -12,11 +12,11 @@
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Practicing Taekwondo as a hobby.
 
 
 
-<h3>🛠 Tech Stack</h3>
+<h3>Tech Stack</h3>
 
 
 - 🌐 &nbsp; Wordpress | Responsive Web Design
@@ -37,7 +37,7 @@
 
 
 
-<h3>🛠 Currently Learning</h3>
+<h3>Currently Learning</h3>
 
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
 
