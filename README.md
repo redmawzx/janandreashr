@@ -18,9 +18,9 @@
 
 <h3>Tech Stack</h3>
 
-- 🌐 &nbsp; Wordpress | Responsive Web Design
+🌐 &nbsp; Wordpress | Responsive Web Design
 
-- 💻 &nbsp; HTML | CSS | JavaScript | Bootstrap
+💻 &nbsp; HTML | CSS | JavaScript | Bootstrap
 
 
 <h3>Currently Learning</h3>
