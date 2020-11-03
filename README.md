@@ -40,7 +40,7 @@
 
 <!-- Contact Hyperlinks -->
 <p align="center">
-<a href="https://www.linkedin.com/in/jan-andreas-rusnak-81811b1b9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jan%20Andreas%20Rusnak-blue?style=flat-square&logo=linkedin"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/)
 <a href="mailto:janandreashorgenr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-janandreashorgenr@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
