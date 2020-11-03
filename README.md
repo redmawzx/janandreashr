@@ -2,9 +2,8 @@
 
 ### Heyo 👋<h2> I'm Jan-Andreas</h2>
 
+
 <h3> About Me </h3>
-
-
 
 💻 &nbsp; Norwegian Web Developer.
 
@@ -12,8 +11,7 @@
 
 - &nbsp; Learning about Cloud Tech, Systems Design.
 
-- &nbsp; Practicing Taekwondo as a hobby.
-
+🥋 &nbsp; Actively practicing Taekwondo as a hobby.
 
 
 <h3>Tech Stack</h3>
