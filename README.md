@@ -46,4 +46,4 @@
 
 <br>
 
-![Jan-Andreas' github stats](https://github-readme-stats.vercel.app/api?username=janandreaskick&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janandreaskick&layout=compact)](https://github.com/janandreaskick/github-readme-stats)
+![Jan-Andreas' github stats](https://github-readme-stats.vercel.app/api?username=janandreaskick&show_icons=true&theme=tokyonight) <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janandreaskick&layout=compact)](https://github.com/janandreaskick/github-readme-stats)
