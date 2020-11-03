@@ -25,8 +25,6 @@
 
 ♨ &nbsp; Java | React | Git | PostgreSQL
 
-![Jan-Andreas' github stats](https://github-readme-stats.vercel.app/api?username=janandreaskick&show_icons=true&theme=tokyonight)
-
 <hr>
 
 <!-- Bonfire -->
@@ -45,3 +43,7 @@
 <a href="https://www.linkedin.com/in/jan-andreas-rusnak-81811b1b9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jan%20Andreas%20Rusnak-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:janandreashorgenr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-janandreashorgenr@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<br>
+
+![Jan-Andreas' github stats](https://github-readme-stats.vercel.app/api?username=janandreaskick&show_icons=true&theme=tokyonight)
