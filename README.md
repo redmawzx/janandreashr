@@ -2,17 +2,17 @@
 
 ### Heyo 👋<h2> I'm Jan-Andreas</h2>
 
-<h3> 💻 About Me </h3>
+<h3> About Me </h3>
 
 
 
-- 🤔 &nbsp; Norwegian Web Developer.
+- &nbsp; Norwegian Web Developer.
 
-- 🎓 &nbsp; Currently studying Front and mobile-development at Kristiania University College.
+- &nbsp; Currently studying Front and mobile-development at Kristiania University College.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- &nbsp; Learning about Cloud Tech, Systems Design.
 
-- ✍️ &nbsp; Practicing Taekwondo as a hobby.
+- &nbsp; Practicing Taekwondo as a hobby.
 
 
 
