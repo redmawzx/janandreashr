@@ -5,7 +5,7 @@
 
 <h3> About Me </h3>
 
-💻 &nbsp; Norwegian Web Developer.
+💻 &nbsp; 20 year old. Norwegian Web Developer.
 
 🎓 &nbsp; Currently studying Information Technology at Kristiania University College.
 
