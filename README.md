@@ -19,10 +19,11 @@
 <h3>🛠 Tech Stack</h3>
 
 
+- 🌐 &nbsp; Wordpress | Responsive Web Design
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; HTML | CSS | JavaScript | Bootstrap
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+
 
 <!--
 
@@ -36,7 +37,7 @@
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 Currently Learning</h3>
 
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
 
