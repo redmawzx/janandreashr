@@ -3,7 +3,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
+    Hello there! I'm <b>Jan-Andreas!</b>.
     <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
 
 </samp>
@@ -54,5 +54,3 @@ Here are some ideas to get you started:
 
 </samp>
 </details>
-
-⭐️ From [TanZng](https://github.com/TanZng)
