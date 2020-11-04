@@ -2,7 +2,9 @@
 
 ---
 
-
+</br>
+<img align="right" alt="Bonfire" width="400" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif">
+</br>
  
 ## &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> **About Me**
 
