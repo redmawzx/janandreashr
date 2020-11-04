@@ -10,6 +10,11 @@
 <a href="mailto:janandreashorgenr@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+ &nbsp;
+<a href="https://github.com/janandreaskick">
+<img alt="Github" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+ 
 </p>
 </br>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/146/14623.gif">
