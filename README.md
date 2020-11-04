@@ -29,7 +29,7 @@
 
 🎮 &nbsp; Favorite videogame: Dark Souls 3.
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
 
 ## **What I know:**
 
