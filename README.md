@@ -14,9 +14,6 @@
  
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=janandreaskick.janandreaskick)
  
-
-  
- </details>
  
  <br>
 
@@ -63,6 +60,8 @@
 </a>
 
  <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=janandreaskick&column=7&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=janandreaskick&column=7&theme=tokyonight"/>
  </p>
+ 
+ </details>
 
