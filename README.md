@@ -52,6 +52,8 @@
  
 <img src="https://github-profile-trophy.vercel.app/?username=janandreashr&column=7&theme=dracula&margin-w=5&"/>
 
+<hr>
+
 ## <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> &nbsp; **Github Stats:**
 
 <a href="https://github.com/janandreashr">
