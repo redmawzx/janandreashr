@@ -2,9 +2,12 @@
 
 ---
  
- <br>
  
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=janandreaskick.janandreaskick)
+  <p align="right">
+  <img src="https://github-profile-trophy.vercel.app/?username=janandreaskick&column=7&theme=tokyonight"/>
+ </p>
+ 
+
  
  <br>
 
@@ -30,7 +33,7 @@
 
 ♨ &nbsp; Java | React | Git | PostgreSQL
 
-<br>
+## &nbsp; &nbsp; **Reach Out**
 
 <!-- Contact Hyperlinks -->
 [![Linkedin Badge](https://img.shields.io/badge/-Jan&#8211;Andreas%20Rusnak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janandreasrusnak/)
@@ -40,9 +43,7 @@
 
 ## 📈 **Github Stats:**
 
- <p align="right">
-  <img src="https://github-profile-trophy.vercel.app/?username=janandreaskick&column=7&theme=tokyonight"/>
- </p>
+
 
 <a href="https://github.com/janandreaskick">
 <img width="440" src="https://github-readme-stats.vercel.app/api?username=janandreaskick&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true">
@@ -58,4 +59,5 @@
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 </samp>
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=janandreaskick.janandreaskick)
   </details>
