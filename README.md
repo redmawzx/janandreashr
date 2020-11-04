@@ -40,11 +40,16 @@
 &nbsp;![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 &nbsp;![Vim](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim)
 
+## **Specs:**
+
+&nbsp;![Nvidia](https://img.shields.io/badge/nvidia-rtx2070-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
+&nbsp;![AMD](https://img.shields.io/badge/amd-Ryzen%205%202600X-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white)
+
 <hr>
  
 <img src="https://github-profile-trophy.vercel.app/?username=janandreashr&column=7&theme=dracula&margin-w=5&"/>
 
-## <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> **Github Stats:**
+## <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> &nbsp; **Github Stats:**
 
 <a href="https://github.com/janandreaskick">
 <img width="440" src="https://github-readme-stats.vercel.app/api?username=janandreaskick&show_icons=true&include_all_commits=true&theme=dracula&count_private=true">
