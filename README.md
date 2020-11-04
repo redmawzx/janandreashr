@@ -12,9 +12,7 @@
 </a>
 </p>
 
-</br>
-<img align="right" alt="Sif" width="350" src="https://i.imgur.com/8HsUjZa.gif">
-</br>
+
 
 ## <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> &nbsp; **About Me**
 
