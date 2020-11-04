@@ -27,12 +27,12 @@
 ## &nbsp; &nbsp; **Reach Out**
 
 <!-- Contact Hyperlinks -->
-<details align="center">
+<p align="center">
  
 [![Linkedin Badge](https://img.shields.io/badge/-Jan&#8211;Andreas%20Rusnak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janandreasrusnak/)
 [![Mail Badge](https://img.shields.io/badge/-janandreashorgenr@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:janandreashorgenr@gmail.com)
 
-</details>
+</p>
 <p align="right">
 <img src="https://github-profile-trophy.vercel.app/?username=janandreaskick&column=7&theme=tokyonight"/>
 </p>
