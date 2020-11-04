@@ -14,7 +14,7 @@
 <img align="right" alt="Bonfire" width="350" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif">
 </br>
 
-## &nbsp; &nbsp; <img src="https://i.imgur.com/8HsUjZa.gif" width="30"> **About Me**
+## &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> **About Me**
 
 <p align="left">💻 &nbsp; I'm a 20 year old Norwegian Web Developer.</p>
 
@@ -25,7 +25,7 @@
 🎮 &nbsp; Favorite videogame: Dark Souls 3.
 
 
-## &nbsp; &nbsp; <img src="https://i.imgur.com/8HsUjZa.gif" width="30"> **What I know**
+## **What I know**
 
 &nbsp;![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 &nbsp;![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
