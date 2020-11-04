@@ -32,7 +32,7 @@
 &nbsp;![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 &nbsp;![Wordpress](https://img.shields.io/badge/-WORDPRESS-blue?style=for-the-badge&logo=wordpress)
 
-## &nbsp; &nbsp; <img src="https://i.imgur.com/8HsUjZa.gif" width="30"> **Currently improving my**
+## **Currently improving my**
 
 &nbsp;![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
 &nbsp;![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
