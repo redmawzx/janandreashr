@@ -14,7 +14,7 @@
 <img align="right" alt="Bonfire" width="350" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif">
 </br>
 
-## &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> **About Me**
+## &nbsp; &nbsp; <img src="https://i.imgur.com/8HsUjZa.gif" width="30"> **About Me**
 
 <p align="left">💻 &nbsp; I'm a 20 year old Norwegian Web Developer.</p>
 
@@ -25,14 +25,14 @@
 🎮 &nbsp; Favorite videogame: Dark Souls 3.
 
 
-## &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> **What I know**
+## &nbsp; &nbsp; <img src="https://i.imgur.com/8HsUjZa.gif" width="30"> **What I know**
 
 🌐 &nbsp; Wordpress | Responsive Web Design
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) | CSS | JavaScript | Bootstrap
 
 
-## &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> **Currently improving my**
+## &nbsp; &nbsp; <img src="https://i.imgur.com/8HsUjZa.gif" width="30"> **Currently improving my**
 
 ♨ &nbsp; Java | React | Git | PostgreSQL
 
