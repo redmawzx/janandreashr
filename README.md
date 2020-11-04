@@ -11,7 +11,7 @@
 
 
 </br>
-<img align="right" alt="Bonfire" width="350" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif">
+<img align="right" alt="Bonfire" width="350" src="https://i.imgur.com/8HsUjZa.gif">
 </br>
 
 ## &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> **About Me**
