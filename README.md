@@ -2,6 +2,10 @@
 
 ---
 
+<p align="center">
+![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)
+</p>
+
 <!-- Contact Hyperlinks
 [![Linkedin Badge](https://img.shields.io/badge/-Jan&#8211;Andreas%20Rusnak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janandreasrusnak/)
 &nbsp;
@@ -11,7 +15,7 @@
 
 
 </br>
-<img align="right" alt="Bonfire" width="350" src="https://i.imgur.com/8HsUjZa.gif">
+<img align="right" alt="Sif" width="350" src="https://i.imgur.com/8HsUjZa.gif">
 </br>
 
 ## &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> **About Me**
@@ -34,7 +38,7 @@
 
 ## **Currently improving my**
 
-&nbsp;![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
+&nbsp;![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 &nbsp;![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 &nbsp;![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 &nbsp;![Vim](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim)
