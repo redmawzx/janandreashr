@@ -32,12 +32,14 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 <br>
 ![Wordpress](https://img.shields.io/badge/-WORDPRESS-blue?style=for-the-badge&logo=wordpress)
-![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
-
 
 ## &nbsp; &nbsp; <img src="https://i.imgur.com/8HsUjZa.gif" width="30"> **Currently improving my**
 
 ♨ &nbsp; Java | React | Git | PostgreSQL
+![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
+![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Vim](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim)
 
 <hr>
  
