@@ -41,7 +41,7 @@
 
  
 <p align="right">
-<img src="https://github-profile-trophy.vercel.app/?username=janandreaskick&column=7&theme=dracula&"/>
+<img src="https://github-profile-trophy.vercel.app/?username=janandreaskick&column=7&theme=dracula&column=3&margin-w=15&margin-h=15"/>
 </p>
 
 ## 📈 **Github Stats:**
