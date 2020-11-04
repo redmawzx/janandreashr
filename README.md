@@ -11,9 +11,10 @@
 </samp>
  
  <br>
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=janandreaskick.janandreaskick)
  
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=janandreaskick&column=7&theme=gruvbox"/>
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=janandreaskick.janandreaskick)
+ 
+
   
  </details>
  
@@ -61,4 +62,5 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janandreaskick&layout=compact&theme=tokyonight" />
 </a>
 
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=janandreaskick&column=7&theme=tokyonight"/>
 
