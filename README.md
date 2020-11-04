@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)
 </p>
 
 <!-- Contact Hyperlinks
@@ -39,7 +39,7 @@
 ## **Currently improving my**
 
 &nbsp;![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-&nbsp;![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+&nbsp;![ReactJs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 &nbsp;![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 &nbsp;![Vim](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim)
 
