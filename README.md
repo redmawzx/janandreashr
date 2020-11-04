@@ -2,10 +2,10 @@
 
 ---
 
+</br>
+<img align="right" alt="Bonfire" width="350" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif">
+</br>
 
-
-
- 
 ## &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> **About Me**
 
 <p align="left">💻 &nbsp; I'm a 20 year old Norwegian Web Developer.</p>
@@ -28,9 +28,7 @@
 
 ♨ &nbsp; Java | React | Git | PostgreSQL
 
-</br>
-<img align="right" alt="Bonfire" width="350" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif">
-</br>
+
 
 
 <hr>
