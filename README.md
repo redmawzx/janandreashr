@@ -3,9 +3,7 @@
 ---
 
 
-</br>
-<img align="right" alt="Bonfire" width="350" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif">
-</br>
+
 
  
 ## &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> **About Me**
@@ -30,9 +28,12 @@
 
 ♨ &nbsp; Java | React | Git | PostgreSQL
 
+</br>
+<img align="right" alt="Bonfire" width="350" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif">
+</br>
+
 
 <hr>
-
  
 <p align="right">
 <img src="https://github-profile-trophy.vercel.app/?username=janandreaskick&column=7&theme=dracula&margin-w=10&"/>
