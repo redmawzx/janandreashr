@@ -40,9 +40,8 @@
 <hr>
 
  
-
-<p align="right">
-<img src="https://github-profile-trophy.vercel.app/?username=janandreaskick&column=7&theme=gruvbox"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=janandreaskick&column=7&theme=dracula&margin-w=15"/>
 </p>
 
 ## 📈 **Github Stats:**
