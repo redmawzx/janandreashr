@@ -45,10 +45,10 @@
  </p>
 
 <a href="https://github.com/janandreaskick">
-<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=janandreaskick&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true">
+<img width="440" src="https://github-readme-stats.vercel.app/api?username=janandreaskick&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true">
 </a>
 <a href="https://github.com/janandreaskick/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janandreaskick&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janandreaskick&layout=compact&theme=tokyonight" />
 </a>
 
 <!-- Bonfire -->
