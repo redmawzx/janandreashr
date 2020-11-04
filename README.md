@@ -18,9 +18,9 @@
  <br>
 
 
-<h> About Me </h3>
+<h3 align="left"> About Me </h3>
 
-💻 &nbsp; I'm a 20 year old Norwegian Web Developer.
+<p align="left">💻 &nbsp; I'm a 20 year old Norwegian Web Developer.</p>
 
 🎓 &nbsp; Studying Information Technology at Kristiania University College.
 
