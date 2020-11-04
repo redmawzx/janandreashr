@@ -29,7 +29,12 @@
 
 🌐 &nbsp; Wordpress | Responsive Web Design
 
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) | CSS | JavaScript | Bootstrap
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+<br>
+![Wordpress](https://img.shields.io/badge/-WORDPRESS-blue?style=for-the-badge&logo=wordpress)
+![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 
 ## &nbsp; &nbsp; <img src="https://i.imgur.com/8HsUjZa.gif" width="30"> **Currently improving my**
