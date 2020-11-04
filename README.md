@@ -19,14 +19,14 @@
 🎮 &nbsp; Favorite videogame: Dark Souls 3.
 
 
-<h3>What I know</h3>
+## &nbsp; &nbsp; **What I know**
 
 🌐 &nbsp; Wordpress | Responsive Web Design
 
 💻 &nbsp; HTML | CSS | JavaScript | Bootstrap
 
 
-<h3>Currently improving my</h3>
+## &nbsp; &nbsp; **Currently improving my**
 
 ♨ &nbsp; Java | React | Git | PostgreSQL
 
