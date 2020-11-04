@@ -1,14 +1,8 @@
 # <p align="center">️ **Heyo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Jan-Andreas** </p>
 
 ---
-<p align="center">
 
-<!-- Contact Hyperlinks -->
-[![Linkedin Badge](https://img.shields.io/badge/-Jan&#8211;Andreas%20Rusnak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janandreasrusnak/)
-[![Mail Badge](https://img.shields.io/badge/-janandreashorgenr@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:janandreashorgenr@gmail.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=janandreaskick.janandreaskick)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=janandreaskick&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-</p>
+
 </br>
 <img align="right" alt="Bonfire" width="350" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif">
 </br>
@@ -54,3 +48,8 @@
 </a>
 
 <br>
+
+<!-- Contact Hyperlinks -->
+[![Linkedin Badge](https://img.shields.io/badge/-Jan&#8211;Andreas%20Rusnak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janandreasrusnak/)
+[![Mail Badge](https://img.shields.io/badge/-janandreashorgenr@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:janandreashorgenr@gmail.com)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=janandreaskick.janandreaskick)
