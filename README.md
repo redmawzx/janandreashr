@@ -2,13 +2,7 @@
 
 ---
 
-<!-- Bonfire -->
-<details align="center">
-<summary> <b> <samp> Light bonfire </samp></b></summary>
-<samp>
- <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
-</samp>
+
  
  <br>
  
@@ -44,7 +38,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jan&#8211;Andreas%20Rusnak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janandreasrusnak/)
 [![Mail Badge](https://img.shields.io/badge/-janandreashorgenr@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:janandreashorgenr@gmail.com)
 
- </details>
+
 
 ## 📈 **Github Stats:**
 
@@ -58,3 +52,12 @@
 <a href="https://github.com/janandreaskick/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janandreaskick&layout=compact&theme=tokyonight" />
 </a>
+
+<!-- Bonfire -->
+<details align="center">
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+</samp>
+  </details>
