@@ -11,23 +11,19 @@
 <img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
  &nbsp;
-<a href="https://github.com/janandreaskick">
+<a href="https://github.com/janandreashr">
 <img alt="Github" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
- 
-</p>
+ </p>
 </br>
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/146/14623.gif">
+<img align="right" alt="SoulOfCinder" width="400" src="https://giffiles.alphacoders.com/146/14623.gif">
 </br>
 
 ## <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> &nbsp; **About Me**
 
-<p align="left">💻 &nbsp; I'm a 20 year old Norwegian Web Developer.</p>
-
+💻 &nbsp; I'm a 20 year old Norwegian Web Developer.
 🎓 &nbsp; Studying Information Technology at Kristiania University College.
-
 🥋 &nbsp; Actively practicing Taekwondo as a hobby.
-
 🎮 &nbsp; Favorite videogame: Dark Souls 3.
 
 ## **What I know:**
@@ -46,9 +42,9 @@
 
 <hr>
  
-<img src="https://github-profile-trophy.vercel.app/?username=janandreaskick&column=7&theme=dracula&margin-w=5&"/>
+<img src="https://github-profile-trophy.vercel.app/?username=janandreashr&column=7&theme=dracula&margin-w=5&"/>
 
-## 📈 **Github Stats:**
+## <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> **Github Stats:**
 
 <a href="https://github.com/janandreaskick">
 <img width="440" src="https://github-readme-stats.vercel.app/api?username=janandreaskick&show_icons=true&include_all_commits=true&theme=dracula&count_private=true">
