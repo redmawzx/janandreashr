@@ -29,6 +29,8 @@
 
 🎮 &nbsp; Favorite videogame: Dark Souls 3.
 
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+
 ## **What I know:**
 
 &nbsp;![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -60,3 +62,5 @@
 <a href="https://github.com/janandreashr/github-readme-stats">
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janandreashr&layout=compact&theme=dracula" />
 </a>
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=janandreashr&theme=blue-green)
