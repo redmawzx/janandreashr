@@ -24,15 +24,6 @@
 
 ♨ &nbsp; Java | React | Git | PostgreSQL
 
-## &nbsp; &nbsp; **Reach Out**
-
-<!-- Contact Hyperlinks -->
-<p align="center">
- 
-[![Linkedin Badge](https://img.shields.io/badge/-Jan&#8211;Andreas%20Rusnak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janandreasrusnak/)
-[![Mail Badge](https://img.shields.io/badge/-janandreashorgenr@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:janandreashorgenr@gmail.com)
-
-</p>
 <p align="right">
 <img src="https://github-profile-trophy.vercel.app/?username=janandreaskick&column=7&theme=tokyonight"/>
 </p>
@@ -55,8 +46,11 @@
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 </samp>
- <br><br>
+ <br><br><br>
  
+ <!-- Contact Hyperlinks -->
+[![Linkedin Badge](https://img.shields.io/badge/-Jan&#8211;Andreas%20Rusnak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janandreasrusnak/)
+[![Mail Badge](https://img.shields.io/badge/-janandreashorgenr@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:janandreashorgenr@gmail.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=janandreaskick.janandreaskick)
 
 </details>
