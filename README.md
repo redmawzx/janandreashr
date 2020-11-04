@@ -27,11 +27,10 @@
 
 ## &nbsp; &nbsp; <img src="https://i.imgur.com/8HsUjZa.gif" width="30"> **What I know**
 
-![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
-<br>
-![Wordpress](https://img.shields.io/badge/-WORDPRESS-blue?style=for-the-badge&logo=wordpress)
+&nbsp;![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+&nbsp;![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+&nbsp;![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+&nbsp;![Wordpress](https://img.shields.io/badge/-WORDPRESS-blue?style=for-the-badge&logo=wordpress)
 
 ## &nbsp; &nbsp; <img src="https://i.imgur.com/8HsUjZa.gif" width="30"> **Currently improving my**
 
