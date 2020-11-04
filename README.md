@@ -54,9 +54,9 @@
 
 ## <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> &nbsp; **Github Stats:**
 
-<a href="https://github.com/janandreaskick">
-<img width="440" src="https://github-readme-stats.vercel.app/api?username=janandreaskick&show_icons=true&include_all_commits=true&theme=dracula&count_private=true">
+<a href="https://github.com/janandreashr">
+<img width="440" src="https://github-readme-stats.vercel.app/api?username=janandreashr&show_icons=true&include_all_commits=true&theme=dracula&count_private=true">
 </a>
-<a href="https://github.com/janandreaskick/github-readme-stats">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janandreaskick&layout=compact&theme=dracula" />
+<a href="https://github.com/janandreashr/github-readme-stats">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janandreashr&layout=compact&theme=dracula" />
 </a>
