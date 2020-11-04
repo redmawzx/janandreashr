@@ -55,6 +55,8 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janandreaskick&layout=compact&theme=tokyonight" />
 </a>
 
- <p align="center">
+<br><br>
+
+ <p align="right">
   <img src="https://github-profile-trophy.vercel.app/?username=janandreaskick&column=7&theme=tokyonight"/>
  </p>
