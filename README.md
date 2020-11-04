@@ -2,6 +2,18 @@
 
 ---
 
+<!-- Bonfire -->
+<details align="center">
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+</samp>
+ 
+ <br>
+ 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=janandreaskick.janandreaskick)
+
 <h> About Me </h3>
 
 💻 &nbsp; I'm a 20 year old Norwegian Web Developer.
@@ -32,17 +44,7 @@
 
 <hr>
 
-<!-- Bonfire -->
-<details align="center">
-<summary> <b> <samp> Light bonfire </samp></b></summary>
-<samp>
- <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
-</samp>
- 
- <br>
- 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=janandreaskick.janandreaskick)
+
  
 </details>
 
