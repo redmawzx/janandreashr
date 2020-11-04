@@ -62,5 +62,3 @@
 <a href="https://github.com/janandreashr/github-readme-stats">
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janandreashr&layout=compact&theme=dracula" />
 </a>
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=janandreashr&theme=blue-green)
