@@ -3,7 +3,6 @@
 ---
 
 <p align="center">
- 
 <a href="https://www.linkedin.com/in/janandreasrusnak/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -12,14 +11,6 @@
 <img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
-<!-- Contact Hyperlinks
-[![Linkedin Badge](https://img.shields.io/badge/-Jan&#8211;Andreas%20Rusnak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janandreasrusnak/)
-&nbsp;
-[![Mail Badge](https://img.shields.io/badge/-janandreashorgenr@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:janandreashorgenr@gmail.com)
-&nbsp;
-![visitors](https://visitor-badge.glitch.me/badge?page_id=janandreaskick.janandreaskick)  -->
-
 
 </br>
 <img align="right" alt="Sif" width="350" src="https://i.imgur.com/8HsUjZa.gif">
@@ -36,14 +27,14 @@
 🎮 &nbsp; Favorite videogame: Dark Souls 3.
 
 
-## **What I know**
+## **What I know:**
 
 &nbsp;![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 &nbsp;![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 &nbsp;![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 &nbsp;![Wordpress](https://img.shields.io/badge/-WORDPRESS-blue?style=for-the-badge&logo=wordpress)
 
-## **Currently improving my**
+## **Currently improving my:**
 
 &nbsp;![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 &nbsp;![ReactJs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -52,9 +43,7 @@
 
 <hr>
  
-<p align="right">
 <img src="https://github-profile-trophy.vercel.app/?username=janandreaskick&column=7&theme=dracula&margin-w=10&"/>
-</p>
 
 ## 📈 **Github Stats:**
 
