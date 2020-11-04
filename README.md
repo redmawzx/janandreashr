@@ -22,8 +22,11 @@
 ## <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> &nbsp; **About Me**
 
 💻 &nbsp; I'm a 20 year old Norwegian Web Developer.
+
 🎓 &nbsp; Studying Information Technology at Kristiania University College.
+
 🥋 &nbsp; Actively practicing Taekwondo as a hobby.
+
 🎮 &nbsp; Favorite videogame: Dark Souls 3.
 
 ## **What I know:**
