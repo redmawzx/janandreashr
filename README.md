@@ -35,7 +35,6 @@
 
 ## &nbsp; &nbsp; <img src="https://i.imgur.com/8HsUjZa.gif" width="30"> **Currently improving my**
 
-♨ &nbsp; Java | React | Git | PostgreSQL
 ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
