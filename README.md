@@ -4,7 +4,7 @@
 
 
  
-## &nbsp; &nbsp; **About Me**
+## &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> **About Me**
 
 <p align="left">💻 &nbsp; I'm a 20 year old Norwegian Web Developer.</p>
 
@@ -15,14 +15,14 @@
 🎮 &nbsp; Favorite videogame: Dark Souls 3.
 
 
-## &nbsp; &nbsp; **What I know**
+## &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> **What I know**
 
 🌐 &nbsp; Wordpress | Responsive Web Design
 
 💻 &nbsp; HTML | CSS | JavaScript | Bootstrap
 
 
-## &nbsp; &nbsp; **Currently improving my**
+## &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> **Currently improving my**
 
 ♨ &nbsp; Java | React | Git | PostgreSQL
 
