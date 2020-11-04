@@ -8,7 +8,7 @@
  
  <br>
 
-**About Me**
+## &nbsp; &nbsp; **About Me**
 
 <p align="left">💻 &nbsp; I'm a 20 year old Norwegian Web Developer.</p>
 
