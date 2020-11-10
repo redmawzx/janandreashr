@@ -42,6 +42,7 @@
 &nbsp;![ReactJs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 &nbsp;![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 &nbsp;![Vim](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim)
+&nbsp;![Lua]https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white
 
 ## **Specs:**
 
