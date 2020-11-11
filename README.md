@@ -62,4 +62,8 @@
 </a>
 <a href="https://github.com/janandreashr/github-readme-stats">
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janandreashr&layout=compact&theme=dracula" />
+
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janandreashr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
