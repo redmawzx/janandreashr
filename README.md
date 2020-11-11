@@ -61,9 +61,6 @@
 <img width="440" src="https://github-readme-stats.vercel.app/api?username=janandreashr&show_icons=true&include_all_commits=true&theme=dracula&count_private=true">
 </a>
 <a href="https://github.com/janandreashr/github-readme-stats">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janandreashr&layout=compact&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janandreashr&layout=compact&theme=dracula" />
 
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janandreashr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
