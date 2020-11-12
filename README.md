@@ -36,7 +36,7 @@
 &nbsp;![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 &nbsp;![Wordpress](https://img.shields.io/badge/-WORDPRESS-blue?style=for-the-badge&logo=wordpress)
 
-## **Currently improving my:**
+## **Also learning:**
 
 &nbsp;![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 &nbsp;![ReactJs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
