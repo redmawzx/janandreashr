@@ -15,19 +15,12 @@
 <img alt="Github" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
  </p>
-</br>
-<img align="right" alt="SoulOfCinder" width="400" src="https://giffiles.alphacoders.com/146/14623.gif">
-</br>
 
 ## <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="30"> &nbsp; **About Me**
 
 💻 &nbsp; I'm a 20 year old Norwegian Web Developer.
 
 🎓 &nbsp; Studying Information Technology at Kristiania University College.
-
-🥋 &nbsp; Actively practicing Taekwondo as a hobby.
-
-🎮 &nbsp; Favorite videogame: Dark Souls 3.
 
 ## **Currently working with:**
 
